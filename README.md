@@ -53,7 +53,3 @@ To run test suites:
 ```bash
 npm test
 ```
-
-## License
-
-This project is licensed under the MIT License - see the repository LICENSE file for details.
