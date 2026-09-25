@@ -1,10 +1,10 @@
-# bill-splitter-app
+# eatnsplit
 
 An intuitive React application designed to help friends track shared dining expenses and split restaurant bills effortlessly.
 
 ## Project Overview
 
-`bill-splitter-app` provides an interactive interface for maintaining friend balances, adding new dining companions, and calculating splits with proportional expenses. Built with modern React and declarative state management.
+`eatnsplit` provides an interactive interface for maintaining friend balances, adding new dining companions, and calculating splits with proportional expenses. Built with modern React and declarative state management.
 
 ## Features
 
